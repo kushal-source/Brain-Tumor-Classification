@@ -1,0 +1,21 @@
+# Environments
+env/
+
+# VS Code settings (keeps your local workspace settings private)
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Machine Learning Models (These get too large for Git)
+*.h5
+*.keras
+
+# Datasets (If you download the Kaggle data locally)
+data/
+dataset/
+*.zip
